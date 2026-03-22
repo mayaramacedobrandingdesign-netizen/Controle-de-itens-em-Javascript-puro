@@ -3,6 +3,11 @@
 Este projeto é um sistema simples de controle de itens desenvolvido com **JavaScript puro**, HTML e CSS.  
 A aplicação permite adicionar, visualizar, atualizar e remover itens de uma lista.
 
+🌐 Visualizar projeto online
+Você pode visualizar o projeto publicado em:
+
+https://crud-javascript-puro.vercel.app/
+
 ## Funcionalidades
 
 - Adicionar item
