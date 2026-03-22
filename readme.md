@@ -6,7 +6,7 @@ A aplicação permite adicionar, visualizar, atualizar e remover itens de uma li
 🌐 Visualizar projeto online
 Você pode visualizar o projeto publicado em:
 
-https://crud-javascript-puro.vercel.app/
+https://controle-de-itens-em-javascript-pur.vercel.app/
 
 ## Funcionalidades
 
