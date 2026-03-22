@@ -1,4 +1,4 @@
-# Sistema de Controle de Itens (CRUD)
+# Sistema de Controle de Itens Em JavaScript Puro (CRUD)
 
 Este projeto é um sistema simples de controle de itens desenvolvido com **JavaScript puro**, HTML e CSS.  
 A aplicação permite adicionar, visualizar, atualizar e remover itens de uma lista.
