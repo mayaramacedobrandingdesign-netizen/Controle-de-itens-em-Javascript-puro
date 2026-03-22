@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Controle de Itens</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+  <div class="card">
+
+    <h1>Controle de Itens</h1>
+
+    <div class="input-group">
+      <input
+        type="text"
+        id="inputItem"
+        placeholder="Digite um item"
+      >
+
+      <button id="botaoPrincipal">
+        Adicionar
+      </button>
+    </div>
+
+    <div class="tabela">
+
+      <div class="cabecalho">
+        <div>Item</div>
+        <div>Ações</div>
+      </div>
+
+      <div id="listaItens"></div>
+
+    </div>
+
+    <div class="acoes-topo">
+      <button onclick="removerPrimeiro()">Remover primeiro</button>
+      <button onclick="removerUltimo()">Remover último</button>
+    </div>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
